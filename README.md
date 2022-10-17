@@ -1,0 +1,4 @@
+- [x] selection-sort
+- [ ] merge-sort
+- [x] stack
+- [ ] queues
