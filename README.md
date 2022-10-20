@@ -1,4 +1,9 @@
 - [x] selection-sort
 - [ ] merge-sort
 - [x] stack
-- [ ] queues
+- [x] queues
+- [ ] hash-table
+- [ ] hash function
+- [ ] binary search tree
+- [ ] graph
+- [ ] disjkstra

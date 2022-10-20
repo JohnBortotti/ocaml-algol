@@ -10,13 +10,14 @@ let pop s =
   match s.s with
   | [] -> raise Empty
   | hd :: tl ->
-      s.s <- tl;
-      hd
+      s.s <- tl
 
 let test =
   let stack = create () in
-  push 1 stack;
   push 2 stack;
+  push 10 stack;
+  push 4 stack;
+  pop stack;
   stack
 
 let () = List.iter (Printf.printf "%d \n") test.s
