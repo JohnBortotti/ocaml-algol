@@ -1,5 +1,5 @@
 - [x] selection-sort
-- [ ] merge-sort
+- [x] merge-sort
 - [x] stack
 - [x] queues
 - [ ] hash-table
